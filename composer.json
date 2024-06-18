@@ -1,0 +1,19 @@
+{
+  "name": "composition/compose",
+  "description": "what does composer do",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Composition\\Compose\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "marlontamo2",
+      "email": "marlontamo2@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
